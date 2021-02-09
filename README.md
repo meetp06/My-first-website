@@ -1,2 +1,2 @@
 # My-first-website
-#https://github.com/Meet0006/My-first-website.git
+# https://Meet0006.github.io/My-first-website
